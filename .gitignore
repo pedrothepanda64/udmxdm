@@ -1,4 +1,5 @@
 src/autosave
 config.cfg
 condump.txt
-.pts
+maps/.pts
+base_setup.map
