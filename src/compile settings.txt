@@ -1,0 +1,4 @@
+compiled with ericw-tools-v0.18.1-32-g6660c5f
+qbsp.exe: -bsp2 -leaktest
+light.exe: -soft 4 -extra4 -bounce 1 -dirt -bouncecolorscale 1 -sunsamples 600 -novisapprox -addmin
+vis.exe: -noambientsky
