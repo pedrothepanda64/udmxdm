@@ -3,4 +3,3 @@ config.cfg
 condump.txt
 base_setup.map
 *.pts
-*.bak
