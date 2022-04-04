@@ -1,6 +1,6 @@
 src/autosave
+src/bmdl/autosave
 config.cfg
 condump.txt
-base_setup.map
 *.pts
 *.bak

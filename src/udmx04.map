@@ -4,16 +4,16 @@
 {
 "classname" "worldspawn"
 "mapversion" "220"
-"_tb_mod" "doommodstuff;progs_dump"
-"_tb_def" "external:../../Quake/Q1/games/udmxdm/src/progs_dump_112.fgd"
-"wad" "../../Quake/Q1/games/udmxdm/src/gfx/udmxwalls.wad;../../Quake/Q1/games/udmxdm/src/gfx/udmxflats.wad;../../Quake/Q1/games/udmxdm/src/gfx/udmxtrans.wad;../../Quake/Q1/games/udmxdm/src/gfx/udmxtra.wad;../../Quake/Q1/games/udmxdm/src/gfx/prototype_1_2.wad;../../Quake/Q1/games/udmxdm/src/gfx/qlava.wad"
+"wad" "../gfx/udmxwalls.wad;../gfx/udmxflats.wad;../gfx/udmxtrans.wad;../gfx/udmxtra.wad;../gfx/prototype_1_2.wad;../gfx/qlava.wad"
+"_tb_def" "external:pd_200_TB_custom_mdls.fgd"
+"_tb_mod" "udmxdm"
 "reset_items" "1"
-"_bouncestyled" "1"
 "_dirtmode" "1"
 "_phong" "1"
 "message" "\bOutpost Delta Flashback\b /// By \bRalphis\b /// Ported by \bAvery\b"
 "sounds" "104"
 "worldtype" "2"
+"style" "1"
 // brush 0
 {
 ( 1600 960 0 ) ( 1600 961 0 ) ( 1600 960 1 ) 128_grey_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -15619,6 +15619,7 @@
 "_tb_name" "lights"
 "_tb_id" "714"
 "_tb_layer_sort_index" "6"
+"_tb_layer_hidden" "1"
 }
 // entity 384
 {

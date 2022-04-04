@@ -1,0 +1,21 @@
+compiled with ericw-tools-v0.18.1-32-g6660c5f, within Trenchbroom's built-in compile GUI.
+
+PRE-LIGHTING COMPILE SETTINGS
+
+vis is disabled until map is fully enclosed.
+
+qbsp.exe: -bsp2
+vis.exe: -noambient
+light.exe: -addmin -novisapprox -phong 0 -phongdebug
+
+BASIC LIGHT COMPILE SETTIGNS
+
+qbsp.exe: -bsp2
+vis.exe: -noambient
+light.exe: -addmin -novisapprox -dirt -bounce -bouncestyled -bouncecolorscale 1
+
+FINAL COMPILE SETTINGS
+
+qbsp.exe: -bsp2
+vis.exe: -noambient
+light.exe: -addmin -novisapprox -dirt -soft 4 -extra4 -sunsamples 600 -bounce -bouncestyled -bouncecolorscale 1

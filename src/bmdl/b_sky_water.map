@@ -1,0 +1,19 @@
+// Game: Quake
+// Format: Valve
+// entity 0
+{
+"classname" "worldspawn"
+"mapversion" "220"
+"wad" "../gfx/udmxwalls.wad;../gfx/udmxflats.wad;../gfx/udmxtrans.wad;../gfx/udmxtra.wad;../gfx/prototype_1_2.wad;../gfx/qlava.wad"
+"_tb_def" "external:pd_200_TB_custom_mdls.fgd"
+"_tb_mod" "udmxdm"
+// brush 0
+{
+( -280 248 -8 ) ( -280 -264 -8 ) ( -280 -264 -40 ) skip [ 0 -1 0 0 ] [ -0 -0 -1 0 ] 0 1 1
+( -248 -280 -8 ) ( 264 -280 -8 ) ( 264 -280 -40 ) skip [ 1 0 -0 0 ] [ 0 -0 -1 0 ] 0 1 1
+( 264 -264 -40 ) ( 264 248 -40 ) ( -248 248 -40 ) skip [ -1 0 0 0 ] [ -0 -1 -0 0 ] 0 1 1
+( -248 248 -8 ) ( 264 248 -8 ) ( 264 -264 -8 ) +0FWATER [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 0.015625 0.015625
+( 264 280 -40 ) ( 264 280 -8 ) ( -248 280 -8 ) skip [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 280 -264 -8 ) ( 280 248 -8 ) ( 280 248 -40 ) skip [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+}

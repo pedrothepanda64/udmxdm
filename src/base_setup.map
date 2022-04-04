@@ -1,0 +1,30 @@
+// Game: Quake
+// Format: Valve
+// entity 0
+{
+"classname" "worldspawn"
+"mapversion" "220"
+"wad" "../gfx/udmxwalls.wad;../gfx/udmxflats.wad;../gfx/udmxtrans.wad;../gfx/udmxtra.wad;../gfx/prototype_1_2.wad;../gfx/qlava.wad"
+"_tb_def" "external:pd_200_TB_custom_mdls.fgd"
+"_tb_mod" "udmxdm"
+"reset_items" "1"
+"_dirtmode" "1"
+"_phong" "1"
+"_sunlight2" "100"
+"_sunlight2_color" "179 222 255"
+"_sunlight3" "100"
+"_sunlight3_color" "221 205 180"
+"message" "\MAPNAME\b /// By \bAUTHOR\b /// Ported by \bAvery\b"
+"sounds" "0"
+"worldtype" "2"
+"style" "1"
+// brush 0
+{
+( -64 -64 -32 ) ( -64 -63 -32 ) ( -64 -64 -31 ) 128_grey_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -64 -64 -32 ) ( -64 -64 -31 ) ( -63 -64 -32 ) 128_grey_3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -64 -64 -32 ) ( -63 -64 -32 ) ( -64 -63 -32 ) 128_grey_3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 64 64 0 ) ( 64 65 0 ) ( 65 64 0 ) 128_grey_3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 64 64 0 ) ( 65 64 0 ) ( 64 64 1 ) 128_grey_3 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 64 64 0 ) ( 64 64 1 ) ( 64 65 0 ) 128_grey_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+}
+}
