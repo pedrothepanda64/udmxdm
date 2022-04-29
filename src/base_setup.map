@@ -28,3 +28,84 @@
 ( 64 64 0 ) ( 64 64 1 ) ( 64 65 0 ) 128_grey_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
+// entity 1
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "clipping"
+"_tb_id" "1"
+"_tb_layer_sort_index" "0"
+"_tb_layer_hidden" "1"
+}
+// entity 2
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "signature"
+"_tb_id" "2"
+"_tb_layer_sort_index" "1"
+"_tb_layer_hidden" "1"
+}
+// entity 3
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "skybox"
+"_tb_id" "3"
+"_tb_layer_sort_index" "2"
+"_tb_layer_hidden" "1"
+}
+// entity 4
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "intermisison cams"
+"_tb_id" "4"
+"_tb_layer_sort_index" "3"
+"_tb_layer_hidden" "1"
+}
+// entity 5
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "gameplay pt ents"
+"_tb_id" "5"
+"_tb_layer_sort_index" "5"
+"_tb_layer_hidden" "1"
+}
+// entity 6
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "gameplay trigs"
+"_tb_id" "6"
+"_tb_layer_sort_index" "4"
+"_tb_layer_hidden" "1"
+}
+// entity 7
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "ambience trigs"
+"_tb_id" "7"
+"_tb_layer_sort_index" "6"
+"_tb_layer_hidden" "1"
+}
+// entity 8
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "ambience pt ents"
+"_tb_id" "8"
+"_tb_layer_sort_index" "7"
+"_tb_layer_hidden" "1"
+}
+// entity 9
+{
+"classname" "func_group"
+"_tb_type" "_tb_layer"
+"_tb_name" "lights"
+"_tb_id" "9"
+"_tb_layer_sort_index" "8"
+"_tb_layer_hidden" "1"
+}
