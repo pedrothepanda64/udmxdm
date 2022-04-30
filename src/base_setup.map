@@ -14,7 +14,7 @@
 "_sunlight2_color" "179 222 255"
 "_sunlight3" "100"
 "_sunlight3_color" "221 205 180"
-"message" "\MAPNAME\b /// By \bAUTHOR\b /// Ported by \bAvery\b"
+"message" "\bMAPNAME\b /// By \bAUTHOR\b /// Ported by \bAvery\b"
 "sounds" "0"
 "worldtype" "2"
 "style" "1"
